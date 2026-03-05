@@ -1,0 +1,11 @@
+node_modules/
+.target/
+target/
+coverage/
+.DS_Store
+.env
+.env.local
+app/.next/
+app/node_modules/
+client/node_modules/
+*.log
