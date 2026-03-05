@@ -1,5 +1,10 @@
 # Cashback Strategy — $CASHBACK
 
+https://x.com/cashbackstr
+
+![image - 2026-03-05T033058 537](https://github.com/user-attachments/assets/ba62e034-0112-4ccd-8f34-688594466b21)
+
+
 > **Hold stronger. Earn stronger.**
 
 Cashback Strategy is a Solana memecoin + on-chain cashback protocol that rewards long-term holders with rising cashback tiers. The longer you keep your $CASHBACK tokens staked in the protocol vault — without withdrawing — the higher your cashback rate becomes.
